@@ -5,3 +5,7 @@ comandos
 - git config --global user.name "amagioshi"
 - git config --global user.email "rocczalez@gmail.com
 ni idea para que sirven estos comandos
+ # agenda.py
+ se crea la funcion de agregar contactos
+ se crea la funcion para listar contactos
+ 
