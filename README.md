@@ -8,4 +8,5 @@ ni idea para que sirven estos comandos
  # agenda.py
  se crea la funcion de agregar contactos
  se crea la funcion para listar contactos
- 
+
+ se agrego la funcion buscar contactos
